@@ -5,3 +5,6 @@
 
 ## 2017-05-11:
 * https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+## 2017-05-12:
+* https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e
