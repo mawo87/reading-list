@@ -8,3 +8,6 @@
 
 ## 2017-05-12:
 * https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e
+
+## 2017-05-13:
+* https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
