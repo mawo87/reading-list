@@ -11,3 +11,6 @@
 
 ## 2017-05-13:
 * https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
+
+## 2017-10-11:
+* https://codepen.io/collection/HtAne/14/
