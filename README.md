@@ -14,3 +14,6 @@
 
 ## 2017-10-11:
 * https://codepen.io/collection/HtAne/14/
+
+## 2017-10-12
+* https://jameshenry.blog/typescript-classes-vs-interfaces/
