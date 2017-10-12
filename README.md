@@ -12,7 +12,7 @@
 ## 2017-05-13:
 * https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
 
-# 2017-09-15:
+## 2017-09-15:
 * https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 
 ## 2017-10-11:
