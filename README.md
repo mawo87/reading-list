@@ -16,7 +16,7 @@
 * https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 
 ## 2017-10-11:
-* https://codepen.io/collection/HtAne/14/
+* Collection of loaders and spinners: https://codepen.io/collection/HtAne/14/
 
 ## 2017-10-12
 * https://jameshenry.blog/typescript-classes-vs-interfaces/
