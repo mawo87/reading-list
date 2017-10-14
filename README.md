@@ -20,3 +20,6 @@
 
 ## 2017-10-12
 * https://jameshenry.blog/typescript-classes-vs-interfaces/
+
+## 2017-10-13
+* https://css-tricks.com/all-about-floats/
