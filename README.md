@@ -23,3 +23,6 @@
 
 ## 2017-10-13
 * https://css-tricks.com/all-about-floats/
+
+## 2017-10-23
+* ES6 Cheatsheet: https://devhints.io/es6
