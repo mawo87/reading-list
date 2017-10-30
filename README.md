@@ -26,3 +26,6 @@
 
 ## 2017-10-23
 * ES6 Cheatsheet: https://devhints.io/es6
+
+## 2017-10-30
+* A list of everything that *could* go in the head of your document: https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email
