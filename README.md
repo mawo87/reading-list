@@ -32,3 +32,8 @@
 
 ## 2017-10-31
 * http://www.wisdomofjim.com/blog/understanding-the-__-___-___-syntax-for-ngrx-action-types
+
+## 2017-11-01
+* https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b
+* https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b
+* https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c
