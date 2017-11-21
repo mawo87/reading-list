@@ -37,3 +37,6 @@
 * https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b
 * https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b
 * https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c
+
+## 2017-11-21:
+* https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
