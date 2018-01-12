@@ -40,3 +40,11 @@
 
 ## 2017-11-21:
 * https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+
+## 2018-01-12:
+* JS Performance Optimization: https://www.sitepoint.com/javascript-performance-optimization-tips-an-overview/
+* http://javascript.info/
+
+## 2018-01-13:
+* Most popular JS links of 2017: https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7
+* Top JS Trens for 2018: https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
